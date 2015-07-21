@@ -1,0 +1,1 @@
+firefox.exe -profile tmp-profile -no-remote
