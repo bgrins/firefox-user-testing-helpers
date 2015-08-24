@@ -9,3 +9,4 @@
  */
 
 user_pref("browser.shell.checkDefaultBrowser", false);
+user_pref("startup.homepage_welcome_url", "");
