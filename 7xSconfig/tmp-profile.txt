@@ -1,0 +1,3 @@
+;!@Install@!UTF-8!
+RunProgram="firefox.exe -no-remote -profile tmp-profile"
+;!@InstallEnd@!
